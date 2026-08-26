@@ -98,11 +98,13 @@ a:active {
 }
 
 .container-right {
-    display: inline-block;
     background-color: rgba(93, 93, 125, 0.16);
     height: 100vh;
     width: 40%;
     position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
 
 
 }
