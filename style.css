@@ -167,8 +167,10 @@ img {
         position: static;
         padding: 0;
         display: flex;
-        justify-content: flex-end;
+        flex-direction: column;
+        justify-content: flex-end; /* Empurra a imagem para o final do bloco cinza */
         align-items: center;
+        background-color: rgba(93, 93, 125, 0.16); /* Garante a manutenção do fundo cinza */
     }
 
 
