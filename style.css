@@ -27,13 +27,13 @@ html, body {
     display: inline-block;
     width: 60%;
     padding-left: 136px;
-    margin-top: 15%
+    margin-top: 10%
 }
 
 h1 {
     width: 368px;
     font-weight: 400;
-    font-size: 70px;
+    font-size: 50px;
     color: #5D5D7D;
     line-height: 80px;
 }
@@ -42,7 +42,7 @@ p {
     width: 540px;
     color: #5D5D7D;
     opacity: 60%;
-    font-size: 28px;
+    font-size: 25px;
     font-weight: 400;
     line-height: 48px;
     margin-top: 15px;
